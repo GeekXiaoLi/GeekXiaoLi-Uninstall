@@ -1,2 +1,2 @@
-# V2rayN-with-Core
-一款强大的VPN工具
+# GeekXiaoLi-Uninstall
+一款强大软件管理工具
